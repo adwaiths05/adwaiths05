@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adwaith S Menon</h1>
 <h3 align="center">Aspiring AI engineer driven to develop innovative AI solutions and guide product lifecycles to solve real-world challenges and elevate user experiences.</h3>
 
-- 🌱 I’m currently learning ** Pinecone, Agno, AutoGen**
+- 🌱 I’m currently learning **Pinecone, Agno, AutoGen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
